@@ -1,0 +1,3 @@
+# ban
+
+Ban workspace.
